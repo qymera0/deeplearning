@@ -13,6 +13,13 @@
     ]
   },
   "Packages": {
+    "AmesHousing": {
+      "Package": "AmesHousing",
+      "Version": "0.0.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "c2d52feff6f960322b15d0e7ce6ac4e1"
+    },
     "BBmisc": {
       "Package": "BBmisc",
       "Version": "1.11",
@@ -33,6 +40,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "030aaec5bc6553f35347cbb1e70b1a17"
+    },
+    "DataExplorer": {
+      "Package": "DataExplorer",
+      "Version": "0.8.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "7ac7d2d1133bead1a5102819397e414d"
     },
     "DiagrammeR": {
       "Package": "DiagrammeR",
@@ -747,6 +761,13 @@
       "Repository": "CRAN",
       "Hash": "6dfe8bf774944bd5595785e3229d8771"
     },
+    "networkD3": {
+      "Package": "networkD3",
+      "Version": "0.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "38310ec4ddb1398359abdd603c151067"
+    },
     "nlme": {
       "Package": "nlme",
       "Version": "3.1-152",
@@ -802,6 +823,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "f3a52d34ee4a038ebe5ef8e29f46fb57"
+    },
+    "patchwork": {
+      "Package": "patchwork",
+      "Version": "1.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "c446b30cb33ec125ff02588b60660ccb"
     },
     "pillar": {
       "Package": "pillar",
@@ -1176,6 +1204,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "12545f2acf49d1d346d075580122d89c"
+    },
+    "visdat": {
+      "Package": "visdat",
+      "Version": "0.5.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "f62b960320b18fdffb2f0f76bb65dbaf"
     },
     "warp": {
       "Package": "warp",
