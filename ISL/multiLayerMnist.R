@@ -76,3 +76,14 @@ history <-
         )
 
 plot(history)
+
+# Functions for accuracy
+
+accuracy <- function(pred, truth){
+        
+        mean(drop(pred) == drop(truth))
+}
+
+mdlNn %>% 
+        predict_classes(xTest) %>% 
+        accuracy(gTest)
